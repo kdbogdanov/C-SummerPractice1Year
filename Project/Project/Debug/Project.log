@@ -1,4 +1,0 @@
-﻿  Source.cpp
-c:\users\valera\documents\visual studio 2015\projects\project\project\sortings.h(33): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
-  Project.vcxproj -> C:\Users\Valera\documents\visual studio 2015\Projects\Project\Debug\Project.exe
-  Project.vcxproj -> C:\Users\Valera\documents\visual studio 2015\Projects\Project\Debug\Project.pdb (Partial PDB)
